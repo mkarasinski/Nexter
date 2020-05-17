@@ -21,16 +21,16 @@ The project contains only front-end design of the app. One of travel agency's su
 ## Try out
 https://mkarasinski.github.io/Nexter/
 
-## Demo
+## Desktop view
 
 <p align="center">
-  <img src="./demo/Trillo.gif" />
+  <img src="./demo/desktop.png" />
 </p>
 
 ## Mobile view
   
 <p align="center">
-  <img src="./demo/Trillo.png" />
+  <img src="./demo/mobile.png" />
 </p>
   
 ## Sources
