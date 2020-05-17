@@ -5,13 +5,13 @@ Front-end responsive web design project
 * [General info](#general-info)
 * [Technologies](#technologies)
 * [Try out](#try-out)
-* [Demo](#demo)
+* [Desktop view](#desktop-view)
 * [Mobile view](#mobile-view)
 * [Sources](#sources)
 
 ## General info
 
-The project contains only front-end design of the app. One of travel agency's subpages. The layout of page is based on CSS Flexbox.
+Project of landing page of fictional company, who sells luxury apartments. The layout of page is based on CSS Grid.
 
 ## Technologies
 * HTML
