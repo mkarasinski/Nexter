@@ -1,4 +1,4 @@
-# Nexter
+# Nexter 
 Front-end responsive web design project
 
 ## Table of contents
